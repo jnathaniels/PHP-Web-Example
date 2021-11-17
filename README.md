@@ -1,6 +1,6 @@
 # PHP-Web-Example
 A PHP Based Website
 
-me@example.com
+user: me@example.com
 
-testpass
+pass: testpass
